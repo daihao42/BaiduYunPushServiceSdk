@@ -1,0 +1,6 @@
+#config ignore
+**__pycache__
+**video
+venv
+*.bak
+*.whl
